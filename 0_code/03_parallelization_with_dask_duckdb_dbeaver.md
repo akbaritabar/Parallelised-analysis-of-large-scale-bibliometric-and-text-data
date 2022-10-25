@@ -35,7 +35,7 @@ The following software have installation files for Windows/Linux/Mac. Please cho
 
 **NOTE**: If you have already followed steps outlined in `01_Required_installation_setup_python.md`, you can skip first steps (conda environment creation) and jump to step on DuckDB, i.e., `Download the DuckDB CLI from: https://duckdb.org/docs/installation/` below.
 
-- Clone (download) this repository from GitHub: [https://github.com/akbaritabar/bibliometric_data_for_demographic_research](https://github.com/akbaritabar/bibliometric_data_for_demographic_research)
+- Clone (download) this repository from GitHub: [https://github.com/akbaritabar/Parallelised-analysis-of-large-scale-bibliometric-and-text-data](https://github.com/akbaritabar/Parallelised-analysis-of-large-scale-bibliometric-and-text-data)
 - Please install Anaconda Python from: https://www.anaconda.com/products/individual (**NOTE**: if you use other distributions of Python or environment management systems, it is OK, but make sure to install all libraries in yaml file and run the codes to see if they work?)
     - Use the "yml" file in this directory named "00_setup_required_environment.yml" and conda to create an environment with needed python libraries following points below
     - After successful installation of python, open "Anaconda prompt" (doesn't need to be administrator) by going to windows start menu and searching it
